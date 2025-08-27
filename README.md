@@ -3,4 +3,16 @@ Este repositório contém os exercícios e anotações da disciplina.
 
 ## Sobre mim
 
- estou fazendo agora em aula e *terminarei* depois. **nycollas**
+  Olá meu nome é **nycollas**, sou interprete de LIBRAS e Cristão, isso me resumi 100%.
+ 
+ ## Habilidaes
+   
+   * Libras;
+   * Me vestir;
+   * mtNerd (https://www.marvel.com/);
+   
+
+ ## Meu primeiro 
+ ````
+
+  ````
