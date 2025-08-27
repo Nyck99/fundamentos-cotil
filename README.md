@@ -12,7 +12,15 @@ Este repositório contém os exercícios e anotações da disciplina.
    * mtNerd (https://www.marvel.com/);
    
 
- ## Meu primeiro 
+ ## Meu primeiro código  
  ````
+   #include <stdio.h>
+
+int main() {
+
+  printf("Olá mundo");
+
+  return 0;
+}
 
   ````
